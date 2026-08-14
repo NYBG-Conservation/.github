@@ -6,5 +6,6 @@ This is the Github organization of the Urban Conservation team at the New York B
 - [Urban Conservation Hub](https://urbanconservation.nybg.org/)
 - [Blue Zones Map Explorer](https://urbanconservation.nybg.org/blue-zones)
 
-Questions about any of these repositories or projects should be directed to (urbanconservation@nybg.org)[mailto:urbanconservation@nybg.org]
+Questions about any of these repositories or projects should be directed to
+(urbanconservation@nybg.org)[mailto:urbanconservation@nybg.org]
 
